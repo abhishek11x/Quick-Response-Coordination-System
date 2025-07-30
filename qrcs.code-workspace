@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "php.validate.executablePath": "php",
+        "editor.formatOnSave": true,
+        "files.associations": {
+            "*.php": "php",
+            "*.js": "javascript",
+            "*.html": "html"
+        },
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact"
+        },
+        "liveServer.settings.port": 5501
+    }
+}
