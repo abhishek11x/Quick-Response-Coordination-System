@@ -1,0 +1,14 @@
+# Node modules folders
+frontend/node_modules/
+backend/node_modules/
+
+# VS Code settings folder
+.vscode/
+
+# Environment files
+frontend/.env
+backend/.env
+
+# Build outputs
+frontend/build/
+backend/dist/
